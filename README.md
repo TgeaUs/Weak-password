@@ -2,7 +2,7 @@
 密码字典---------------Password dictionary  
 SQL注入----------------SQL injection  
 XSS测试----------------XSS attack  
-用户密码字典------------wordlists-user-passwd  	
+用户密码字典------------wordlists-user-passwd  
 信息探测----------------Information detection   
 常用攻击载荷------------payload attack  
 控制字符----------------control character  
