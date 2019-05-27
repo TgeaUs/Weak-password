@@ -11,3 +11,7 @@ XSS测试----------------XSS attack
 文件包含测试	----------File contains  
 跨目录测试	-------------Cross-directory  
 默认用户名密码----------Default username and password  
+
+算得上比较全的字典文件了
+
+A compare complete dictionary file
